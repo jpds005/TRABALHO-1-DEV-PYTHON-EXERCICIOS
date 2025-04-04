@@ -1,0 +1,1 @@
+SOMA: [4]; SUBTRAÇÃO: [0]; MULTIPLICAÇÃO: [4]; DIVISÃO: [1.0]
